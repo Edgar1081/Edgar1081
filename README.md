@@ -7,7 +7,8 @@
 
 ### 🚀 Interests
 - 📐 Approximation algorithms for **NP-Hard** problems  
-- 🧠 Programming Languages and **Logic**  
+- 🧠 Programming Languages and **Logic**
+- 🔗 **Graph Algorithms** and **Ramsey Theory**
 - 🤯 **Computability theory** and the limits of computation  
 - 🧬 **Relational Science**, *(M,R)-Systems*, and **Anticipatory Systems**  
 - 🌌 **Computational Physics**
