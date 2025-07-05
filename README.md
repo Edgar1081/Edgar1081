@@ -1,16 +1,11 @@
 ## Hi there 👋
-
-<!--
-**Edgar1081/Edgar1081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Scientist at Faculty of Sciences at National Autonomous University of México.
+- Interested in:
+  - Aproximation algorithms for NP-Hard problems
+  - Programming Languages and Logic
+  - Computability theory and limits of computation]
+  - Relational Science, (M,R)-Sytems and Anticipatory Systems
+  - Computational physics
+- Learning:
+- Type theory
+- Functional progamming
